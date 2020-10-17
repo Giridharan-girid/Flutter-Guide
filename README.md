@@ -5,7 +5,7 @@ Starting from installing Process to getting the layouts in position.
 //https://github.com/Giridharan-girid/example-pic/
 
 [![Awesome](https://github.com/Giridharan-girid/example-pic/badge.svg)](https://github.com/sindresorhus/awesome) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)
- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/temidtech/flutter-cheat-sheet/master/LICENSE)
+ [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Giridharan-girid/Flutter-guide/master/LICENSE)
  
 ## Table of Contents
 
@@ -214,7 +214,7 @@ Widget build(BuildContext context) {
   ###   Horizontal MainAxisAlignment
     Setting the main axis alignment to spaceEvenly divides the free horizontal space 
     evenly between, before, and after each image
-  ![alt text](https://github.com/Giridharan-girid/Flutter-guide/raw/master/example-pic/img1.PNG)
+  ![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/img1.PNG)
    ```dart
    Row(
   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
