@@ -1,5 +1,4 @@
-# Flutter Guide 
-- Giridharan
+# Short Flutter Guide - Giridharan
 I made a brief order of concepts that will help anyone to start a Flutter app from scratch.
 Starting from installing Process to getting the layouts in position.
 
