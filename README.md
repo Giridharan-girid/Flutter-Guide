@@ -1,15 +1,9 @@
-# Flutter Cheat Sheet - Giridharan
+# Flutter Guide 
+- Giridharan
 I made a brief order of concepts that will help anyone to start a Flutter app from scratch.
 Starting from installing Process to getting the layouts in position.
 
-//https://github.com/Giridharan-girid/example-pic/
-
-[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg)](https://github.com/Giridharan-girid/Flutter-guide)
- 
- [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/branch-master-brightgreen.svg)](https://github.com/Giridharan-girid/Flutter-guide/tree/main/example-pic)
- 
- 
- [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/license-MIT-blue.svg)](https://github.com/Giridharan-girid/Flutter-guide/blob/main/LICENSE)
+[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg)](https://github.com/Giridharan-girid/Flutter-guide)[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/branch-master-brightgreen.svg)](https://github.com/Giridharan-girid/Flutter-guide/tree/main/example-pic)[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/license-MIT-blue.svg)](https://github.com/Giridharan-girid/Flutter-guide/blob/main/LICENSE)
  
 ## Table of Contents
 
@@ -31,7 +25,7 @@ Starting from installing Process to getting the layouts in position.
 To get started with Flutter, your dev environment must meet the following requirements
 
 | Operating Systems        | Windows 7 SP1 or later (64-bit)           |
-| Highly recommend RAM > 8GB or higher, because your emulators will not start with a RAM less than 8GB.           |
+| RAM        |Highly recommend RAM > 8GB or higher, because your emulators will not start with a RAM less than 8GB.           |
 | ------------- |:-------------:|
 | Disk Space     | 400 MB (does not include disk space for IDE/tools) |
 | Tool    | Windows PowerShell 5.0 or newer      |
@@ -115,7 +109,7 @@ In Android Virtual Device Manager, click **Run** in the toolbar. The emulator st
 To get started with Flutter, your dev environment must meet the following requirements
 
 | Operating Systems        | macOS (64-bit) macOS 10.15 Catalina or macOS 10.14 Mojave (lesser than 2012 will not install Xcode)          |
-| Highly recommend RAM > 8GB or higher, because your emulators will not start with a RAM less than 8GB.           |
+| RAM        | Highly recommend RAM > 8GB or higher, because your emulators will not start with a RAM less than 8GB.           |
 | ------------- |:-------------:|
 | Disk Space     | Might need  > 40Gb to install Xcode(but will reduce after installation to < 15Gb|
 | Tool    | bash, curl, git 2.x, mkdir, rm, unzip, which|
