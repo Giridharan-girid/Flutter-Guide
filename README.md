@@ -3,7 +3,7 @@
 I made a brief order of concepts that will help anyone to start a Flutter app from scratch.
 Starting from installing Process to getting the layouts in position.
 
-[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg)](https://github.com/Giridharan-girid/Flutter-guide).   [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/branch-master-brightgreen.svg)](https://github.com/Giridharan-girid/Flutter-guide/tree/main/example-pic).  [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/license-MIT-blue.svg)](https://github.com/Giridharan-girid/Flutter-guide/blob/main/LICENSE)
+[![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg)](https://github.com/Giridharan-girid/Flutter-guide)  [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/branch-master-brightgreen.svg)](https://github.com/Giridharan-girid/Flutter-guide/tree/main/example-pic)  [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/license-MIT-blue.svg)](https://github.com/Giridharan-girid/Flutter-guide/blob/main/LICENSE)
  
 ## Table of Contents
 
