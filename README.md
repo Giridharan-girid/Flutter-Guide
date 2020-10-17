@@ -4,8 +4,8 @@ Starting from installing Process to getting the layouts in position.
 
 //https://github.com/Giridharan-girid/example-pic/
 
-![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)
- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Giridharan-girid/Flutter-guide/master/LICENSE)
+![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/badge.svg) ![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/branch-master-brightgreen.svg)
+ [![alt text](https://github.com/Giridharan-girid/Flutter-guide/blob/main/example-pic/license-MIT-blue.svg)](https://raw.githubusercontent.com/Giridharan-girid/Flutter-guide/master/LICENSE)
  
 ## Table of Contents
 
